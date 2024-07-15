@@ -1,0 +1,17 @@
+{
+  "name": "word_counter00",
+  "version": "1.0.0",
+  "description": "A minimalist tool that swiftly counts characters and words in English paragraphs, omitting whitespaces. Ideal for quick text analysis tasks, ensuring efficiency and simplicity.",
+  "main": "app.js",
+  "type": "module",
+  "bin": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^10.0.1"
+  }
+}
